@@ -3,4 +3,7 @@
 git add .
 git commit -m 'Update'
 git push origin master
-echo '📖 Published!'
+
+if [ $? -eq 0 ]; then
+    echo '📖 Published!'
+fi
