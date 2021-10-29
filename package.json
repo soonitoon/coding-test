@@ -1,7 +1,6 @@
 {
   "name": "coding-test",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/soonitoon/coding-test.git",
   "author": "Hyuno Choi <soonitoon@gmail.com>",
   "license": "MIT",
