@@ -8,9 +8,10 @@
   - [약수의 개수와 덧셈](./docs/level1/약수의_개수와_덧셈.md)
   - [카카오: 실패율](./docs/level1/실패율.md)
   - [찾아라 프로그래밍 마에스트로: 폰켓몬](./docs/level1/폰켓몬.md)
+  - [탐욕법: 체육복](./docs/level1/체육복.md)
 
 ## 셋업 방법
 
 - 클론: `$ git clone https://github.com/soonitoon/coding-test`
 - 레포지토리 이동: `$ cd ./coding-test`
-- 배포(자동 커밋 & 푸쉬): `yarn run publish`
+- 배포(자동 커밋 & 푸쉬): `./publish.sh`
