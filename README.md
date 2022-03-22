@@ -34,9 +34,13 @@
   - [두 정수 사이의 합](./docs/level1/두_정수_합.md)
   - [나누어 떨어지는 숫자 배열](./docs/level1/나누어_떨어지는_숫자.md)
   - [가운데 글자 가져오기](./docs/level1/가운데_글자.md)
+  - [내적](./docs/level1/내적.md)
+  - [음양 더하기](./docs/level1/음양_더하기.md)
+  - [없는 숫자 더하기](./docs/level1/없는_숫자_더하기.md)
 
 ## 셋업 방법
 
 - 클론: `$ git clone https://github.com/soonitoon/coding-test`
 - 레포지토리 이동: `$ cd ./coding-test`
-- 배포(자동 커밋 & 푸쉬): `./publish.sh`
+- 배포(자동 커밋 & 푸쉬): `$ yarn run publish`
+- 새 문서 템플릿 생성: `$ yarn run template`
