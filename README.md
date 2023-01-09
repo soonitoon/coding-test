@@ -4,6 +4,10 @@
 
 ## 목차
 
+- Level0
+
+  - [옹알이](./docs/level0/옹알이.md)
+
 - Level 1
   - [약수의 개수와 덧셈](./docs/level1/약수의_개수와_덧셈.md)
   - [카카오: 실패율](./docs/level1/실패율.md)
