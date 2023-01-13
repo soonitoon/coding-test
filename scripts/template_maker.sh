@@ -19,7 +19,7 @@ function startScript {
     echo '문제 제목을 입력해주세요(자동으로 파일명이 됩니다):'
     read templateName
 
-    echo '몇 단계 문제인가요? (1~5)'
+    echo '몇 단계 문제인가요? (0~5)'
     read rank
 
     filePath="./docs/level${rank}/${templateName// /_}.md"
