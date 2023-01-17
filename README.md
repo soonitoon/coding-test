@@ -7,6 +7,8 @@
 - Level0
 
   - [옹알이](./docs/level0/옹알이.md)
+  - [평행](./docs/level0/평행.md)
+  - [겹치는 선분의 길이](./docs/level0/겹치는_선분의_길이.md)
 
 - Level 1
   - [약수의 개수와 덧셈](./docs/level1/약수의_개수와_덧셈.md)
