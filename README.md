@@ -12,6 +12,7 @@
   - [안전지대](./docs/level0/안전지대.md)
   - [연속된 수의 합](./docs/level0/연속된_수의_합.md)
   - [분수의 덧셈](./docs/level0/분수의_덧셈.md)
+  - [다음에 올 숫자](./docs/level0/다음에_올_숫자.md)
 
 - Level 1
   - [약수의 개수와 덧셈](./docs/level1/약수의_개수와_덧셈.md)
